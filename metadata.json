@@ -1,0 +1,7 @@
+{
+  "name": "深空眼 (Deep Space Eye)",
+  "description": "一个跨平台的深空探测器三维可视化与百科系统。提供太阳系三维场景、人类探测器位置实时展示以及详尽的行星与任务数据查询。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
